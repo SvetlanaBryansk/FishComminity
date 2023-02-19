@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{42740E54-B4CB-4FD1-8F4A-3AA4768E14F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fish", "Fish\Fish.csproj", "{E31D17FF-90A7-4512-B399-7A6EF0CC13CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structures", "..\..\9\Structures\Structures.csproj", "{467AA165-54E6-41B3-A64B-571B419D612B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "..\..\11\AccessModifiers\AccessModifiers.csproj", "{507D3B6C-AC61-4D10-9ED1-6CC27564AA47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticKeyword", "..\..\12\StaticKeyword\StaticKeyword.csproj", "{3E98B885-5244-4716-B34D-BE400846C858}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "..\..\..\3. Наследование, инкапсуляция и ООП\1\Inheritance\Inheritance.csproj", "{8709C089-FA58-4E01-9E1D-FAD56F5425D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\..\..\3. Наследование, инкапсуляция и ООП\2\Interfaces\Interfaces.csproj", "{75024901-32CB-4DB0-A45B-3A1EAF475ACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishCommunity", "..\..\..\3. Наследование, инкапсуляция и ООП\2\FishCommunity\FishCommunity.csproj", "{A03F16CE-B003-49BB-BD42-636699942302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42740E54-B4CB-4FD1-8F4A-3AA4768E14F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42740E54-B4CB-4FD1-8F4A-3AA4768E14F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42740E54-B4CB-4FD1-8F4A-3AA4768E14F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42740E54-B4CB-4FD1-8F4A-3AA4768E14F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31D17FF-90A7-4512-B399-7A6EF0CC13CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31D17FF-90A7-4512-B399-7A6EF0CC13CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31D17FF-90A7-4512-B399-7A6EF0CC13CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31D17FF-90A7-4512-B399-7A6EF0CC13CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467AA165-54E6-41B3-A64B-571B419D612B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467AA165-54E6-41B3-A64B-571B419D612B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467AA165-54E6-41B3-A64B-571B419D612B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467AA165-54E6-41B3-A64B-571B419D612B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507D3B6C-AC61-4D10-9ED1-6CC27564AA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507D3B6C-AC61-4D10-9ED1-6CC27564AA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507D3B6C-AC61-4D10-9ED1-6CC27564AA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507D3B6C-AC61-4D10-9ED1-6CC27564AA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E98B885-5244-4716-B34D-BE400846C858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E98B885-5244-4716-B34D-BE400846C858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E98B885-5244-4716-B34D-BE400846C858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E98B885-5244-4716-B34D-BE400846C858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8709C089-FA58-4E01-9E1D-FAD56F5425D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8709C089-FA58-4E01-9E1D-FAD56F5425D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8709C089-FA58-4E01-9E1D-FAD56F5425D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8709C089-FA58-4E01-9E1D-FAD56F5425D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75024901-32CB-4DB0-A45B-3A1EAF475ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75024901-32CB-4DB0-A45B-3A1EAF475ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75024901-32CB-4DB0-A45B-3A1EAF475ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75024901-32CB-4DB0-A45B-3A1EAF475ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03F16CE-B003-49BB-BD42-636699942302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03F16CE-B003-49BB-BD42-636699942302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03F16CE-B003-49BB-BD42-636699942302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03F16CE-B003-49BB-BD42-636699942302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AF83DC-04D8-4AB2-A279-9862B5F1ABDD}
+	EndGlobalSection
+EndGlobal

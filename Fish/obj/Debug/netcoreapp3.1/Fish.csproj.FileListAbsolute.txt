@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.exe
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.deps.json
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.runtimeconfig.json
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.runtimeconfig.dev.json
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.dll
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\bin\Debug\netcoreapp3.1\Fish.pdb
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.AssemblyInfo.cs
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.dll
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.pdb
+C:\Users\1\Desktop\C#\Основы\8\Classes\Fish\obj\Debug\netcoreapp3.1\Fish.genruntimeconfig.cache
